@@ -1,0 +1,40 @@
+{
+  "sellers": [
+    {
+      "id": "8b3e",
+      "sellerName": "provat",
+      "companyName": "",
+      "phoneNumber": "8479",
+      "optionalPhoneNumber": "",
+      "bag": {
+        "sqft": "1556",
+        "bedrooms": "15",
+        "status": "newlyLaunched"
+      }
+    },
+    {
+      "id": "8b3e",
+      "sellerName": "provat",
+      "companyName": "",
+      "phoneNumber": "8479",
+      "optionalPhoneNumber": "",
+      "bag": {
+        "sqft": "54",
+        "bedrooms": "56",
+        "status": "underConstruction"
+      }
+    },
+    {
+      "id": "c3b7",
+      "sellerName": "provat",
+      "companyName": "test",
+      "phoneNumber": "45564",
+      "optionalPhoneNumber": "",
+      "bag": {
+        "sqft": "1200",
+        "bedrooms": "100",
+        "status": "readyToMove"
+      }
+    }
+  ]
+}
